@@ -1,4 +1,4 @@
-a = 20
-b = 20
-print(a+b) 
-print("completd")
+a,b = 1,2
+c = a+b
+print(c)
+
